@@ -1,0 +1,2 @@
+# PartnerTestCaseStudy
+Partner with Daniel 
